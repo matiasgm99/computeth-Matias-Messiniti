@@ -1,0 +1,11 @@
+#BackIma{
+    background-image: url(../assets/17973908.jpg);
+    background-repeat: no-repeat;
+}
+.ProDest { 
+    padding: 1rem;
+    margin: 2rem;
+    color: rgb(255, 0, 255);
+    background-image:linear-gradient(rgba(238, 255, 6, 0.829), rgba(0, 0, 255, 0.308));
+    font-size: x-large;
+}
